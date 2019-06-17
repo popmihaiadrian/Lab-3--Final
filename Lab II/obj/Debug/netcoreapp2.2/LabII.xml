@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabII</name>
+    </assembly>
+    <members>
+        <member name="M:LabII.Controllers.CommentController.Get(System.String)">
+            <remarks>
+            {
+            "id": 1,
+            "text": "What?! 777.55",
+            "important": true,
+            "expenseId": 7
+            }
+            </remarks>
+             <summary>
+             
+             </summary>
+             <param name="filter">Optional, filtered by text</param>
+             <returns>List of comments</returns>
+        </member>
+        <member name="M:LabII.Controllers.ExpensesController.Get(System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.Nullable{LabII.Models.Type})">
+            <remarks>
+            {
+            "id": 7,
+            "description": "Variable",
+            "type": 2,
+            "location": "Bistrita",
+            "date": "2019-05-09T17:17:17",
+            "currency": "EURO",
+            "sum": 777.55,
+            "comments": [
+            {
+            "id": 1,
+            "text": "What?! 777.55",
+            "important": true
+            },
+            {
+            "id": 2,
+            "text": "Nice sum!",
+            "important": false
+            }
+            ]
+            }
+             </remarks>
+             <summary>
+             Get all the expenses
+             </summary>
+             <param name="from">Optional, filtered by minimum date</param>
+             <param name="to">Optional, filtered by maximu date</param>
+             <param name="type">Optional, filtered by type</param>
+             <returns>A list of expenses</returns>
+        </member>
+        <member name="M:LabII.Controllers.ExpensesController.Get(System.Int32)">
+            <remarks>
+            {
+            "id": 5,
+            "description": "Fixed",
+            "type": 5,
+            "location": "Arad",
+            "date": "2019-05-13T13:13:13",
+            "currency": "USD",
+            "sum": 33.33,
+            "comments": []
+                }
+             
+             </remarks>
+             <summary>
+             Get an expense by a given id
+             </summary>
+             <param name="id">ID</param>
+             <returns>One expense with specified id or not foud</returns>
+        </member>
+        <member name="M:LabII.Controllers.ExpensesController.Post(LabII.Models.Expense)">
+            <remarks>
+            {"description": "Fixed",
+            "type": 5,
+            "location": "Arad",
+            "date": "2019-05-13T13:13:13",
+            "currency": "USD",
+            "sum": 33.33,
+            "comments": []
+                }
+             </remarks>
+             <summary>
+             Add an expense to the db
+             </summary>
+             <param name="expense"></param>
+        </member>
+        <member name="M:LabII.Controllers.ExpensesController.Put(System.Int32,LabII.Models.Expense)">
+            <remarks>
+            {
+             "id": 5,
+            "description": "Fixed",
+            "type": 5,
+            "location": "Arad",
+            "date": "2019-05-13T13:13:13",
+            "currency": "USD",
+            "sum": 33.33,
+            "comments": []
+             </remarks>
+             <summary>
+             Add or update an expense to the db
+             </summary>
+             <param name="id">ID</param>
+             <param name="expense">An expense to add or update</param>
+             <returns>The added expense with all fields</returns>
+        </member>
+        <member name="M:LabII.Controllers.ExpensesController.Delete(System.Int32)">
+            <remarks>
+            {
+            "id": 5,
+            "description": "Fixed",
+            "type": 5,
+            "location": "Arad",
+            "date": "2019-05-13T13:13:13",
+            "currency": "USD",
+            "sum": 33.33,
+            "comments": []
+                }
+             </remarks>
+             <summary>
+             Delete an expense from the db
+             </summary>
+             <param name="id">ID</param>
+             <returns>The deleted item or not found</returns>
+        </member>
+    </members>
+</doc>

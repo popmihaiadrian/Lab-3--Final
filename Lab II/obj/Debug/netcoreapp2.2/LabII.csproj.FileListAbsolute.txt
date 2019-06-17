@@ -1,0 +1,48 @@
+C:\Users\Dénes\source\repos\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.deps.json
+C:\Users\Dénes\source\repos\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.runtimeconfig.json
+C:\Users\Dénes\source\repos\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.runtimeconfig.dev.json
+C:\Users\Dénes\source\repos\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.dll
+C:\Users\Dénes\source\repos\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.pdb
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.csproj.CoreCompileInputs.cache
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.RazorAssemblyInfo.cache
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.RazorAssemblyInfo.cs
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.AssemblyInfoInputs.cache
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.AssemblyInfo.cs
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.RazorTargetAssemblyInfo.cache
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.dll
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.pdb
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.csprojAssemblyReference.cache
+C:\Users\Dénes\source\repos\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.xml
+C:\Users\Dénes\source\repos\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.xml
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.deps.json
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.runtimeconfig.json
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.runtimeconfig.dev.json
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.dll
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.pdb
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\bin\Debug\netcoreapp2.2\LabII.xml
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.csprojAssemblyReference.cache
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.csproj.CoreCompileInputs.cache
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.RazorAssemblyInfo.cache
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.RazorAssemblyInfo.cs
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.AssemblyInfoInputs.cache
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.AssemblyInfo.cs
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.RazorTargetAssemblyInfo.cache
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.dll
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.xml
+C:\Users\popmi\Desktop\Projects .NET\Lab_1_3_withSwagger\LabII\LabII\obj\Debug\netcoreapp2.2\LabII.pdb
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\bin\Debug\netcoreapp2.2\LabII.deps.json
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\bin\Debug\netcoreapp2.2\LabII.runtimeconfig.json
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\bin\Debug\netcoreapp2.2\LabII.runtimeconfig.dev.json
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\bin\Debug\netcoreapp2.2\LabII.dll
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\bin\Debug\netcoreapp2.2\LabII.pdb
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\bin\Debug\netcoreapp2.2\LabII.xml
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.csprojAssemblyReference.cache
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.csproj.CoreCompileInputs.cache
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.RazorAssemblyInfo.cache
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.RazorAssemblyInfo.cs
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.AssemblyInfoInputs.cache
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.AssemblyInfo.cs
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.RazorTargetAssemblyInfo.cache
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.dll
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.xml
+C:\Users\popmi\Desktop\Projects .NET\.NET\LabII\obj\Debug\netcoreapp2.2\LabII.pdb
