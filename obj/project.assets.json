@@ -13054,11 +13054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\popmi\\Desktop\\Projects .NET\\.NET\\LabII\\LabII.csproj",
+      "projectUniqueName": "C:\\Users\\popmi\\Desktop\\Projects .NET\\.NET\\Lab II\\LabII.csproj",
       "projectName": "LabII",
-      "projectPath": "C:\\Users\\popmi\\Desktop\\Projects .NET\\.NET\\LabII\\LabII.csproj",
+      "projectPath": "C:\\Users\\popmi\\Desktop\\Projects .NET\\.NET\\Lab II\\LabII.csproj",
       "packagesPath": "C:\\Users\\popmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\popmi\\Desktop\\Projects .NET\\.NET\\LabII\\obj\\",
+      "outputPath": "C:\\Users\\popmi\\Desktop\\Projects .NET\\.NET\\Lab II\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
